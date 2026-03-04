@@ -6,7 +6,7 @@
 
 | UE 5.3 | UE 5.4 | UE 5.5 | UE 5.6 | UE 5.7 |
 |--------|--------|--------|--------|--------|
-| ✅ Supported | ✅ Supported | ✅ Supported | ✅ Supported | ⏳ Soon |
+| ✅ Supported | ✅ Supported | ✅ Supported | ✅ Supported | ✅ Supported |
 
 marketplace link : [coming soon].
 
