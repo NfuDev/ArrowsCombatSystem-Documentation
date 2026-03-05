@@ -11,6 +11,8 @@
 marketplace link : [coming soon].
 
 - [📘 Open full documentation](https://github.com/NfuDev/ArrowsCombatSystem-Documentation/wiki)
+
+  You can also view the plugin on **[Fab](https://www.fab.com/listings/19ba7cb7-9db4-4a09-80eb-753d76297232)**.
   
 Copyright Arrows Interactive Systems, nightfall16@2025. All Rights Reserved.
 
