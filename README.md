@@ -8,7 +8,6 @@
 |--------|--------|--------|--------|--------|
 | ✅ Supported | ✅ Supported | ✅ Supported | ✅ Supported | ✅ Supported |
 
-marketplace link : [coming soon].
 
 - [📘 Open full documentation](https://github.com/NfuDev/ArrowsCombatSystem-Documentation/wiki)
 
