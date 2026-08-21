@@ -15,7 +15,12 @@
 
   ---
   # Features :
-  
+
+  ## Fighting style editor updates
+  1- easy to use custom input buffer editor so you can define it without the need to write in text box, eliminating spelling mistakes and also forgetting what available attacks types in this style
+  2- custom notifies editor , this will help editing the notifies in the montages without the need to jump from asset to asset , just keep working in the main fighting style and edit and tweak damage and stuff here.
+  <img width="1907" height="971" alt="image" src="https://github.com/user-attachments/assets/1fb68d87-57f0-452c-802b-888e780c7529" />
+
   ## 1- Multiplayer :
   in this upcoming update we will support multiplayer.
   all combat states are well replicated , and maybe shortly after this update the GAS implementation is also going to be added.
