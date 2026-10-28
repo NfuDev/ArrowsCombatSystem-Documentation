@@ -68,6 +68,11 @@ you can set the filter policy in your combat component settings to get different
 
 <img width="1912" height="795" alt="image" src="https://github.com/user-attachments/assets/a44b9886-3dda-4f77-89b0-d365aa2f9ac5" />
 
+the damage shapes reports all hits and if they were accepted or not along side the damage info defined in the shape settings
+
+<img width="1881" height="960" alt="image" src="https://github.com/user-attachments/assets/afe04602-121e-401a-89cb-ea10d97154ce" />
+
+
 
 
 
