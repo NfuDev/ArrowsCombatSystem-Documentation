@@ -4,9 +4,9 @@
 
 <img width="128" height="128" alt="Icon128" src="https://github.com/user-attachments/assets/2e04d47c-a493-402a-9292-b32ea810acc6" />
 
-| UE 5.3 | UE 5.4 | UE 5.5 | UE 5.6 | UE 5.7 |
-|--------|--------|--------|--------|--------|
-| ✅ Supported | ✅ Supported | ✅ Supported | ✅ Supported | ✅ Supported |
+| UE 5.3 | UE 5.4 | UE 5.5 | UE 5.6 | UE 5.7 | UE 5.8 |
+|--------|--------|--------|--------|--------|--------|
+| ✅ Supported | ✅ Supported | ✅ Supported | ✅ Supported | ✅ Supported | ✅ Supported |
 
 
 - [📘 Open full documentation](https://github.com/NfuDev/ArrowsCombatSystem-Documentation/wiki)
