@@ -26,7 +26,11 @@
   all combat states are well replicated , and maybe shortly after this update the GAS implementation is also going to be added.
   the GAS implementation is going to be a way to preform combos using gameplay ability system classes if you want to go all in with GAS and don't want to handle combos using
   our built-in dynamic input binders.
-  
+
+  providing new "ArrowsCombatCharacterBase" that has custom extended character movement component to allow for proper client prediction in multiplayer for better experience
+  you can still use the default character from unreal it will work for multiplayer but might encounter some jitters and fights between the server and the client about which direction the
+  character is facing or which location during an attack that has motion warping for long distances or you use the facing control notify in you attacks.
+   
   <img width="1904" height="991" alt="image" src="https://github.com/user-attachments/assets/88a87022-1b78-4048-9a87-b3f32018285e" />
 ---
 ## 2- Visual Logger :
